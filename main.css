@@ -1,0 +1,39 @@
+.section1{
+    background-color: rgb(62, 26, 221);
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+}
+
+input[type="button"]{
+    font-weight: bold;
+    border: 0px;
+    border-radius: 30px;
+    background-color: rgba(231, 123, 60, 0.938);
+    color:aliceblue;
+}
+
+button{
+    font-weight: bold;
+    border: 0px;
+    border-radius: 30px;
+    background-color: rgba(231, 123, 60, 0.938);
+    color:aliceblue;
+}
+
+#head2{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(192, 192, 192);
+}
+
+a {
+    color: azure;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: #999999;
+}
